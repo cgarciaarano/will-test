@@ -1,0 +1,4 @@
+will
+
+# HipChat
+sleekxmpp==1.3.2
